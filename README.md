@@ -1,5 +1,5 @@
 ![nCQqNMjENo4](https://user-images.githubusercontent.com/59340748/71834525-b4dcca00-30af-11ea-8b4c-0d17259baed2.jpg)
-***
+
 # About me: #
 
 *Greetings reader*!  
@@ -10,7 +10,7 @@ If you(for some reasons) looking for my github account, [here](https://github.co
 
 # Experience: #
 
-In process :wink:
+In process 
 
 
 # Education: #
@@ -23,11 +23,11 @@ In process :wink:
 
 # Skills: #
 
-- **HTML**:smiley:   
-- **CSS**:sweat_smile:  
-- **SQL**:expressionless:  
-- **Javascript**:cry:  
-***
-:telephone: 04844760??  
-:e-mail: sample@gmail.com
+- **HTML**  
+- **CSS**  
+- **SQL**    
+- **Javascript**  
+
+telephone 04844760??  
+e-mail sample@gmail.com
 
